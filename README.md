@@ -1,6 +1,6 @@
 # Lab5.JS
 
-###Tasks for this work:
+### Tasks for this work:
 1. Work with variables.
 2. Add a page that asks for a name and displays it.
 3. Write the function min(a,b), which returns the smallest of the numbers a,b.
